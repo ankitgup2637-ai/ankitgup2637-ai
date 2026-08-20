@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitgup2637-ai&label=Profile%20views&color=00d2ff&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
